@@ -10,6 +10,7 @@
 | Default style | Colorful style |
 
 
+
 ## Features
 
 - Zoom in and out with the mouse wheel.
